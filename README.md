@@ -12,6 +12,6 @@ chmod +x build-fixer-agent.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/c25-migration-work-13952/repos/fp-build-fixer/build-fixer-agent.sh
+/data/data/com.termux/files/home/constellation25-mono/fp-build-fixer/build-fixer-agent.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
